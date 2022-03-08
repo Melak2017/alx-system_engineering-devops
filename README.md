@@ -1,1 +1,1 @@
-A directory that shows the use of special characters
+This repository contains directories each corresponding DevOps project.
